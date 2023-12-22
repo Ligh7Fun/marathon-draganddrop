@@ -65,6 +65,7 @@ body {
 
 .hold {
 	border: 1px dotted red;
+	background-color: bisque;
 }
 
 .hide {
